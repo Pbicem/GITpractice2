@@ -1,3 +1,5 @@
 Hello second file
 
 changing for third commit
+
+i m changing this areas to check
